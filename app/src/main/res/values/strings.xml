@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">extract</string>
+    <string name="accessibility_service_description">auto install apk service</string>
+    <string name="samsung_service_description">samsung auto click service</string>
+</resources>
